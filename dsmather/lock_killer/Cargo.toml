@@ -1,0 +1,6 @@
+[package]
+name = "lock_killer"
+version = "0.1.0"
+authors = ["Drew Smathers <drew.smathers@oracle.com>"]
+
+[dependencies]
